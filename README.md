@@ -1,5 +1,5 @@
 ## redux-with-firebase
-###### Pequeño ejemplo de como usar redux junto con firebase
+###### Pequeño ejemplo de como usar redux junto a firebase
 
 ### Avalible scripts commands
 ```
